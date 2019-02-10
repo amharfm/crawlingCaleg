@@ -13,7 +13,7 @@ maka...
 - Ubah var **katakunci_body** jadi kata kunci di laman, dibawah tag **body**
 - Ubah var **katakunci_a** jadi kata kunci di tautan, dibawah tag **a**, sekalian dilanjut crawl kalau punya atribut **href**. Tadinya untuk kata kunci yang udah jadi judul berita.
 - Ubah var awalan & akhiran untuk nentuin brp banyak yang mau diambil
-- # node server.js
+- **node server.js**
 
 ## Kira-kira cara kerjanya:
 1. Ngebaca laman mula
