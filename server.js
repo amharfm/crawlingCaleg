@@ -1,7 +1,7 @@
 
 var sumberawal = "https://wikidpr.org/rangkuman?search=sekolah&sort_by=meeting_date";   
     console.log("dari: ",sumberawal);
-var katakunci_body  = "F";
+var katakunci_body  = "Fraksi";
     katakunci_body = new RegExp(katakunci_body, "i");
 var katakunci_a     = "smp"; 
     katakunci_a = new RegExp(katakunci_a, "i");
