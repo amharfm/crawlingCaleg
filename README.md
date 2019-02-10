@@ -4,7 +4,7 @@ berhubung..
 
 maka...
 # crawlingCaleg - buat nyariin nama caleg pake kata kunci
-- https://github.com/simplecrawler/simplecrawler
+- http://nodecrawler.org/
 - https://www.youtube.com/watch?v=n-k_96h8M9g
 > Dipake di console node doang (**10.2.2019**)
 
