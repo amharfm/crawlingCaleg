@@ -1,7 +1,7 @@
 # crawlingCaleg
 
-calegpedia.id/ --> simulasi surat suara
-kpu.go.id --> biodata caleg. Ada motto nya juga
+- calegpedia.id/ --> simulasi surat suara
+- kpu.go.id --> biodata caleg. Ada motto nya juga
 
 Dipake di console node doang (*10.2.2019*)
 Kira-kira cara pakenya:
