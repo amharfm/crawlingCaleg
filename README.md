@@ -1,7 +1,10 @@
-# crawlingCaleg
-
+berhubung..
 - calegpedia.id/ --> simulasi surat suara
 - kpu.go.id --> biodata caleg. Ada motto nya juga
+
+maka...
+# crawlingCaleg - buat nyariin nama caleg pake kata kunci
+https://github.com/simplecrawler/simplecrawler
 
 Dipake di console node doang (*10.2.2019*)
 Kira-kira cara pakenya:
